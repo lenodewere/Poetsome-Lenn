@@ -15,7 +15,7 @@ VERCEL PROCESS:
     4: Enter project name, env variables.
     5: And JUST CLICK "Deploy". 
 ```
-***Here's an Example [`OUTPUT`]([https://simple-website-ashy.vercel.app](https://lenodewere.github.io/Poetsome-Lenn/)).***
+***Here's an Example [`OUTPUT`](https://lenodewere.github.io/Poetsome-Lenn/).***
 
 ---
 
